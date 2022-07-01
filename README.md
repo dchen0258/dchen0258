@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Trading Technologies in Chicago, Illinois** as a Software Engineer Intern
 - 🌱 I'm studying computer science at the University of Chicago, with expected graduation in June 2024
-- 📫 How to reach me: **dchen24@uchicago.edu**
+- 📫 Reach me at: **dchen24@uchicago.edu**
 - 💬 Ask me about: chess, tennis, f1, cricket, or piano!
 - ⚡ Fun fact: **I got punched by a kangaroo once!**
 
