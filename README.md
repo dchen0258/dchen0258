@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">An excited and dedicate software engineer from Perth, Australia</h3>
+<h1 align="left">Hi 👋, I'm David</h1>
+<h3 align="left">An excited and dedicated software engineer from Perth, Australia</h3>
 
 - 🔭 I’m currently working at **Trading Technologies in Chicago, Illinois** as a Software Engineer Intern
-
-- 📫 How to reach me **dchen24@uchicago.edu**
-
-- ⚡ Fun fact **I got punched by a kangaroo once!**
+- 📫 How to reach me: **dchen24@uchicago.edu**
+- ⚡ Fun fact: **I got punched by a kangaroo once!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
