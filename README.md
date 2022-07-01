@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working at **Trading Technologies in Chicago, Illinois** as a Software Engineer Intern
 - 📫 How to reach me: **dchen24@uchicago.edu**
+- 💬 Ask me about: chess, tennis, f1, cricket, or piano!
 - ⚡ Fun fact: **I got punched by a kangaroo once!**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
