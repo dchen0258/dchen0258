@@ -1,5 +1,4 @@
 <h1 align="left">Hi 👋, I'm David</h1>
-<h3 align="left">An excited and dedicated software engineer from Perth, Australia</h3>
 
 - 🔭 I’m currently working at **Trading Technologies in Chicago, Illinois** as a Software Engineer Intern
 - 🌱 I'm studying computer science at the University of Chicago, with expected graduation in June 2024
