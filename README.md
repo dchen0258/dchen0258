@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm David</h1>
 
-- 🔭 I’m currently working at **Trading Technologies in Chicago, Illinois** as a Software Engineer Intern
+- 🔭 I’m currently working at **Amazon Music in San Francisco, California** as a Software Engineer Intern
 - 🌱 I'm studying computer science at the University of Chicago, with expected graduation in June 2024
 - 📫 Reach me at: **dchen24@uchicago.edu**
 - 💬 Ask me about: chess, tennis, f1, cricket, or piano!
