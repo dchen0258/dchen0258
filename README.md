@@ -4,7 +4,6 @@
 - 🌱 I'm studying computer science at the University of Chicago, with expected graduation in June 2024
 - 📫 Reach me at: **dchen24@uchicago.edu**
 - 💬 Ask me about: chess, tennis, f1, cricket, or piano!
-- ⚡ Fun fact: **I got punched by a kangaroo once!**
 
 
 
