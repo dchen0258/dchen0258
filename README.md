@@ -3,9 +3,6 @@
 - 🔭 I’m currently working at **Amazon Web Services in Seattle, Washington** as a Software Dev Engineer Intern
 - 🌱 I'm studying computer science at the University of Chicago, with expected graduation in June 2025
 - 📫 Reach me at: **dchen24@uchicago.edu**
-- 💬 Ask me about: chess, tennis, f1, cricket, or piano!
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
